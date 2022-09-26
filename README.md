@@ -1,5 +1,7 @@
 # QHEAP1 Problem - HackerRank
-Category: Data Structure - Problem Solving ( Intermediate )
+Category: Data Structure -> Heap
+
+Problem Solving ( Intermediate )
 
 Max Score: 25 - Score: 25 :white_check_mark:
 
